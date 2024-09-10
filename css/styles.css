@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+.weatherApp {
+    margin: auto;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    
+}
+#location-input {
+    padding: .6rem;
+    outline: none;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    border-radius: .4rem;
+}
+#weather-data {
+    margin: 0 auto;
+    padding: 25px;
+    width: 350px;
+    border-radius: .6rem;
+}
